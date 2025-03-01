@@ -153,8 +153,9 @@
     \small \href{tel:#}{ \raisebox{-0.1\height}\faPhone\ \underline{+91-7491818284} ~} \href{mailto:gau321tam@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{gau321tam@gmail.com}} ~ 
     \href{https://linkedin.com/in/gartam-rathour}{\raisebox{-0.2\height}\faLinkedinSquare\ \underline{gartam-rathour}}  ~
     \href{https://github.com/Gautam-Rathour}{\raisebox{-0.2\height}\faGithub\ \underline{Gautam-Rathour}} ~
-    \href{https://x.com/Gautam__Rathour}{\raisebox{-0.2\height}{\includegraphics[height=0.3cm, width=0.3cm]{X.png}}\ \underline{Gautam\_\_Rathour}}
+    \href{https://x.com/Gautam__Rathour}{\raisebox{-0.2\height}{\includegraphics[height=0.3cm, width=0.3cm]{X.jpeg}}\ \underline{Gautam\_\_Rathour}}
     \\ \vspace{-8pt}
+    
    
 
 
@@ -163,7 +164,7 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {Lovely Professional University - (Punjab)}{2023 – 2027}
-      {Computer Science and Engineering - \textbf{CGPA} - \textbf{8.1}}{Jalandhar, Punjab}
+      {Computer Science      -     \textbf{CGPA} - \textbf{8.1}}{Jalandhar, Punjab}
   \resumeSubHeadingListEnd
   
 %   \resumeSubHeadingListStart
@@ -284,8 +285,8 @@
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
      \textbf{\normalsize{Languages:}}{  \normalsize{Java, JavaScript, SQL}} \\
-     \textbf{\normalsize{Technologies/Frameworks:}}{  \normalsize{HTML, CSS, Express, SQL, Javascript}} \\
-     \textbf{\normalsize{Developer Tools:}}{  \normalsize{VS Code, Sublime,  Canva }} \\
+     \textbf{\normalsize{Technologies/Frameworks:}}{  \normalsize{HTML, CSS, Express.js, SQL, JavaScript, Git , GitHub}} \\
+     \textbf{\normalsize{Developer Tools:}}{  \normalsize{VS Code, Sublime, Postman, Canva }} \\
     }}
  \end{itemize}
  \vspace{-15pt}
@@ -295,10 +296,9 @@
 \section{CODING PLATFORMS}
     \resumeSubHeadingListStart
             \resumeItemListStart
-                \resumeItem{\normalsize{Solved \textbf{14+} Problems on \textbf{Leetcode}.
+                \resumeItem{\normalsize{Solved \textbf{50+} Problems on \textbf{Leetcode}.
                 \href{https://leetcode.com/u/Gautam__Rathour/}{\raisebox{-0.1\height}\faExternalLink }}}
                 \resumeItem{\normalsize{Solved \textbf{5+} Problems across \textbf{GeeksforGeeks}
-                \href{}{\raisebox{-0.1\height}\faExternalLink }}}
                 \href{}{\raisebox{-0.1\height}\faExternalLink }}}
                 % \resumeItem{\normalsize{Participation Certificate. \href{ParticipationCertificateLink.com}{\raisebox{-0.1\height}\faExternalLink }}}
             \resumeItemListEnd
